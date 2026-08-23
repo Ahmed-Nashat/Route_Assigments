@@ -1,0 +1,14 @@
+node_modules/
+*.log
+sessions/
+*.log
+Express/
+*.log
+StudentManagmentAPI/
+*.log
+js Practise/
+*.log
+
+package-lock.json
+package.json
+folderico-black.ico
